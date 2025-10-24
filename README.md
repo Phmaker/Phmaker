@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <p>Sou Engenheiro de Software com foco em criar soluções robustas e escaláveis. Minha paixão é combinar a performance do <strong>Python/Django</strong> no back-end com a interatividade do <strong>React/Next.js</strong> no front-end para entregar produtos de alta qualidade e com ótima experiência de usuário.</p>
+  <p>Sou Engenheiro de Software com foco em criar soluções robustas e escaláveis. Minha paixão é combinar a performance do <strong>Back-end</strong>  com a interatividade do <strong>Front-end</strong> para entregar produtos de alta qualidade e com ótima experiência de usuário.</p>
 </div>
 
 <div align="center">
