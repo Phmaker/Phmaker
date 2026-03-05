@@ -1,17 +1,22 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/162760498?v=4" width="150px" alt="Foto de Phmaker"/>
+  <img src="https://avatars.githubusercontent.com/u/162760498?v=4" width="150px" alt="Foto de Pedro Henrique"/>
   <h1>Olá, eu sou o Pedro Henrique Cadete! 👨‍💻</h1>
   <h3>Engenheiro de Software</h3>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <p>Sou Engenheiro de Software com foco em criar soluções robustas e escaláveis. Minha paixão é combinar a performance do <strong>Back-end</strong>  com a interatividade do <strong>Front-end</strong> para entregar produtos de alta qualidade e com ótima experiência de usuário.</p>
+  <p>Sou Engenheiro de Software com foco em criar soluções robustas e escaláveis. Minha paixão é combinar a performance do <strong>Back-end</strong> com a interatividade do <strong>Front-end</strong> para entregar produtos de alta qualidade e com ótima experiência de usuário.</p>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedrohcadete" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:pedrohenriquecadetepf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+  <a href="https://www.linkedin.com/in/pedrohcadete" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pedrohenriquecadetepf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
 <br>
 
 <div align="center">
@@ -33,18 +38,18 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </p>
 </div>
+
 <br>
 
 <div align="center">
   <h2>Estatísticas</h2>
-
   <table>
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phmaker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phmaker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Estatísticas do GitHub"/>
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phmaker&layout=compact&langs_count=8&theme=tokyonight"/>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phmaker&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas"/>
       </td>
     </tr>
   </table>
